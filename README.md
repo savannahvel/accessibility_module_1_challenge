@@ -2,7 +2,7 @@
 
 ## Description
 
-Goal was to make demonstrate knowledge of accessibility and refactoring. 
+Goal was to demonstrate knowledge of accessibility and refactoring. 
 
 Issues covered in this project:  
 - Adding alt tags to images
@@ -10,6 +10,9 @@ Issues covered in this project:
 - Using semantic HTML elements to assist to address accessibility issues
 - Fixing bugs
 - Following DRY method and cleaning up repeated code
+
+![alt text](./assets/images/html-page-rendered.png)
+
 
 
 ## Installation
